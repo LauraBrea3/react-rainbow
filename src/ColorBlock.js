@@ -8,4 +8,4 @@ function ColorBlock(props) {
     )
 }
 
-export default ColorBlock
+export default ColorBlock;
